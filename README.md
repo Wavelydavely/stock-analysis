@@ -27,7 +27,8 @@ Help Steve's parents make a well-informed investment decision
 
 ### Refactored 2018:
 
-![image](https://user-images.githubusercontent.com/76623937/112768553-26b97000-8fe2-11eb-84cf-778b1cd2fe88.png)
+![image](https://user-images.githubusercontent.com/76623937/112769491-ef998d80-8fe6-11eb-9cd8-533616f84023.png)
+
 
 
 
