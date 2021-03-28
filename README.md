@@ -13,9 +13,11 @@ Help Steve's parents make a well-informed investment decision
 ![image](https://user-images.githubusercontent.com/76623937/112767177-c70b9680-8fda-11eb-9acc-799d4a7d1f1a.png)
 
 Prerefactored 2017:
+
 ![image](https://user-images.githubusercontent.com/76623937/112767761-23bc8080-8fde-11eb-9b00-4c2a6f527eeb.png)
 
 Refactored 2017:
+
 ![image](https://user-images.githubusercontent.com/76623937/112767889-c37a0e80-8fde-11eb-8931-ab3628f7ea14.png)
 
 
