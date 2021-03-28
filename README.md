@@ -20,6 +20,14 @@ Refactored 2017:
 
 ![image](https://user-images.githubusercontent.com/76623937/112767889-c37a0e80-8fde-11eb-8931-ab3628f7ea14.png)
 
+Prerefactored 2018:
+
+![image](https://user-images.githubusercontent.com/76623937/112768485-e0fca780-8fe1-11eb-8cb5-e92948938c0a.png)
+
+
+
+
+
 
 	3.	Summary: In a summary statement, address the following questions.
 	4.	What are the advantages or disadvantages of refactoring code?
