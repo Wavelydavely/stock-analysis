@@ -24,6 +24,9 @@ Prerefactored 2018:
 
 ![image](https://user-images.githubusercontent.com/76623937/112768485-e0fca780-8fe1-11eb-8cb5-e92948938c0a.png)
 
+Refactored 2018:
+
+![image](https://user-images.githubusercontent.com/76623937/112768553-26b97000-8fe2-11eb-84cf-778b1cd2fe88.png)
 
 
 
