@@ -6,8 +6,8 @@ Help Steve's parents make a well-informed investment decision
 	2.	Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
   From 2017 to 2018, we see a substantial difference in the performance of the companies we have reviewed.
 
-[2017 Results:](https://user-images.githubusercontent.com/76623937/112767124-857aeb80-8fda-11eb-895b-95f5eb154daa.png)
-[2018 Results:](https://user-images.githubusercontent.com/76623937/112767177-c70b9680-8fda-11eb-9acc-799d4a7d1f1a.png)
+![2017 Results:](https://user-images.githubusercontent.com/76623937/112767124-857aeb80-8fda-11eb-895b-95f5eb154daa.png)
+![2018 Results:](https://user-images.githubusercontent.com/76623937/112767177-c70b9680-8fda-11eb-9acc-799d4a7d1f1a.png)
 
 ![image](https://user-images.githubusercontent.com/76623937/112767761-23bc8080-8fde-11eb-9b00-4c2a6f527eeb.png)
 
